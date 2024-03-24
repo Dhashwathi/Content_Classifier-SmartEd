@@ -20,7 +20,7 @@ Model Training and Evaluation: Train each model on the training data and evaluat
 Selection of Final Model: Choose the model with the highest accuracy on the testing dataset as the final model for video segmentation.
 
 Model Evaluation
-The following classification algorithms were tested for sentiment analysis:
+The following classification algorithms were tested for video classification:
 
 Logistic Regression
 Multinomial Naive Bayes
